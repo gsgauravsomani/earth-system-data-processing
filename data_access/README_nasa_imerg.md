@@ -1,4 +1,7 @@
 ## Exploring NASA GPM IMERG Precipitation Data (Half-Hourly, V07 Final Run)
+
+Author: Gaurav Somani
+
 ### 1. Dataset Identification
 
 I started my search by browsing different Earth system datasets listed in the homework instructions. NASA **GPM IMERG precipitation dataset** immediately caught my interest, because I work with ground-based rain-rate measurements (e.g., Parsivel disdrometers). I wanted to understand how global precipitation products compare. IMERG will help me explore precipitation from a global, satellite-based perspective rather than point-wise ground sensors.
